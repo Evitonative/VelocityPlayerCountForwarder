@@ -5,3 +5,6 @@ If no backend responds, the proxy falls back to Velocity’s default values.
 
 ## Should you use this in production?
 Probably not. This plugin blocks briefly while pinging backends and is only safe if you expect very few players or light load.
+
+## Future Development
+This plugin should be functional but the odds that I will actually improve on the current version are very slim. If you have improvements feel free to submit a PR or start your own plugin with this repo as your base.
